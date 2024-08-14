@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm OM PATEL</h1>
+<h1 align="center">Hi 👋, I'm ANSHUL KUMAR SINGH</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 - 🔭 I’m currently working on **Computerized Inputs through Brain Waves using EEGs**
