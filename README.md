@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm ANSHUL KUMAR SINGH</h1>
 <h3 align="center">AWS Certified Cloud Practitioner | Mern Stack Developer</h3>
 
-- 🔭 I’m currently working on **Health_record_management_system**
+- 🔭 I’m currently working at **Indokr Biz Solutions Pvt Ltd**
   
 - 👀 I’m currently doing **BTECH in Computer Science from VIT Chennai**
   
-- 🌱 I’m currently learning **Flutter and AWS**
+- 🌱 I’m currently learning **AI Automation**
 
 - 👯 I’m looking to collaborate on **Fullstack Projects**
 
-- 💬 Ask me about **JavaScript,React,Node.js,AWS, and any general software development questions.**
-
 - 📫 How to reach me **anshulkumarsingh80@gmail.com**
-
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1h1SFS2q4Ypig4u6IQUXddtQnhYyVMgUJ/view?usp=drive_link)
 
 - ⚡ Fun fact **I love learning new things.**
 
